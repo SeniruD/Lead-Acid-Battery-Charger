@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF9540
+D Trans MOSFET P-CH 100V 19A 3-Pin(3+Tab) TO-220AB - Bulk
+K
+F http://www.vishay.com/docs/91078/91078.pdf
+$ENDCMP
+#
+#End Doc Library

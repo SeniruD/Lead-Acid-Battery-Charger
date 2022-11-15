@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=IRF9540
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=1.2
+Released=2020-11-17 12:37:45
+Downloaded=2022-10-06 15:54:05
+3D=Y
